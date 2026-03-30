@@ -32,15 +32,13 @@ It allows switching between different modes such as original, grayscale, and edg
 pip install opencv-python
 python day6.py
 
-Screen Shots
--Original
-<img width="638" height="507" alt="image" src="https://github.com/user-attachments/assets/a519c924-f465-4b5c-a2da-f82ff835cb8f" />
+This program successfully processes real-time camera input and applies different image transformations interactively.
 
--Press g : grayscale
-<img width="636" height="503" alt="image" src="https://github.com/user-attachments/assets/ed9b7799-c53c-44f2-b232-c7ebce653398" />
+## Demo
+Original : Project1-Original.png
+Gray : Project-Gray.png
+Edge : Project-Edge.png
 
--Press e: edge detection
-<img width="638" height="502" alt="image" src="https://github.com/user-attachments/assets/3bd4fa6f-19dc-49bc-82ae-5a3c020696ae" />
 
 
 
